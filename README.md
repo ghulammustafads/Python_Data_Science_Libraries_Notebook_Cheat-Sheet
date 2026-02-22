@@ -18,14 +18,14 @@
 Welcome to the **Data & Tech Cheat Sheets Library**!  
 This repository is a growing collection of **concise, practical cheat sheets** for data analysts, programmers, and tech enthusiasts. Each cheat sheet is designed to help you **quickly reference key concepts and best practices** in your coding and data analysis workflow.  
 
-Currently, this repo contains the **first cheat sheet**, with more to be added regularly as the library grows.  
+Currently, this repo contains the **Two  cheat sheet**, with more to be added regularly as the library grows.  
 
 ---
 
 ## 📂 Repository Structure
 
-```text
 root/
 │
 ├── Numpy Notebook
+├── Pandas Notebook
 └── README.md
